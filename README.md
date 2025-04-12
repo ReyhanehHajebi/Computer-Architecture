@@ -1,3 +1,4 @@
+# Computer Architecture
 📘 Computer Architecture – RISC-V Implementation Project
 Course: Computer Architecture
 University Project – Fall 2023
